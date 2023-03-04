@@ -1,0 +1,4 @@
+pop 500
+elit 50
+mut 0.01
+gen 100

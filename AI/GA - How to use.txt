@@ -1,0 +1,17 @@
+1. W settings.py ustalamy nazwę konfiguracji
+2. Uruchamiamy śmieciarkę
+3. Poprzez kliknięcie + T ustawiamy śmiecia, poprzez kliknięcie + O ustawiamy przeszkodę
+4. Dostosowujemy mapę do przypadku, który chcemy zbadać
+5. Klikamy "S" - zapisujemy konfigurację mapy w folderze o ustalonej wcześniej nazwie, znajduje się w nim plik o takiej samej nazwie,
+który jest zrzutem stanu mapy, który wygenerowaliśmy
+X - niedostępne stany
+R - drogi
+T - punkty odbioru śmieci
+O - przeszkody
+6. Przechodzimy do skryptu cost.py - ustawiamy nazwę configuracji dla, której generujemy macierz kosztu.
+7. Macierz kosztu zostaje zapisana w tym samym folderze co konfiguracja
+8. Macierz kosztu jest generowana poprzez A* z punktu do punktu
+9. Korzystamy z macierzy kosztu przy algorytmie genetycznym - bedziemy jej uzywać przy okresleniu dopasowania chromosomu do srodowiska
+10. Po wykonaniu algorytmu genetycznego, widzimy wykres jak zmieniały się koszta wraz z generacjami oraz zapisany zostaje plik, w
+którym znajduje się najlepsza ścieżka.
+11. Możemy teraz wrócić do klienta, po kliknięciu spacji zobaczymy jak śmieciarka jedzie najlepszą drogą wybraną na drodze ewolucji.
