@@ -1,6 +1,6 @@
 # Intelligent Garbage Truck
 
-**Implementation of intelligent autonomous garbage truck that travels by path with the lowest cost (TSP problem solved with genetic algorithms) from garbage to garbage, collects garbage if circumstances allows to do so (decision trees classification) and recogonizes type of garbage that is in trash (neural network object recognition). Agent uses BFS and A(*) algorithms implementation for state space searching, agent environment is highly configurable. Agent can turn left, right and move forward by one unit with cost of 1. If he moves through obstacle it has additional cost of 10. Agent with A(*) algorithm toggled will always consider that cost and with help of genetic algorithms traversal of all trashes will be always close to optimal.**
+**Implementation of intelligent autonomous garbage truck that travels by path with the lowest cost (TSP problem solved with genetic algorithms) from garbage to garbage, collects garbage if circumstances allows to do so (decision trees classification) and recogonizes type of garbage that is in trash (neural network object recognition). Agent uses BFS and A\* algorithms implementation for state space searching, agent environment is highly configurable. Agent can turn left, right and move forward by one unit with cost of 1. If he moves through obstacle it has additional cost of 10. Agent with A\* algorithm toggled will always consider that cost and with help of genetic algorithms traversal of all trashes will be always close to optimal.**
 
 ---
 
@@ -12,7 +12,7 @@
 
 :heavy_check_mark: **Implementation of state space searching with BFS (Breadth-first search) algorithm**
 
-:heavy_check_mark: **Implementation of state space searching with heuristic algorithm A(*) and Manhattan distance.**
+:heavy_check_mark: **Implementation of state space searching with heuristic algorithm A* and Manhattan distance.**
 
 :heavy_check_mark: **Implementation of decision trees for making decision about picking up garbage under current circumstances based on 8 parameters (even/odd day of the week, size of garbage, weight of garbage, paid bill, can/cannot close bin, free space, type of garbage, time of a day), model training, learning set, extracted trainer for model**
 
@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/72214275/222927518-dc63cbff-63e5-4355-
 * **Press T to place trash**
 * **Press A to change state space searching algorithm**
 * **Press S to save current map configuration (location of obstacles, trashes) - more information at the end of this file**
-* **Use right click on location to make garbage truck drive to this location by road found using currently selected algorithm (you can compare difference between A(*) and BFS in that way in very nice way with obstacles)**
+* **Use right click on location to make garbage truck drive to this location by road found using currently selected algorithm (you can compare difference between A\* and BFS in that way in very nice way with obstacles)**
 
 https://user-images.githubusercontent.com/72214275/222927975-a93062d7-fe7b-4567-a561-c322c159c742.mp4
 
@@ -129,7 +129,7 @@ https://user-images.githubusercontent.com/72214275/222927975-a93062d7-fe7b-4567-
 
 :heavy_check_mark: **User can load multiple configurations in settings.py file and also create his own configurations according to instructions in file "GA-How to use.txt".**
 
-:heavy_check_mark: **User can easily change used algorithm for state space searching by pressing A key (A(*)/BFS).**
+:heavy_check_mark: **User can easily change used algorithm for state space searching by pressing A key (A\*/BFS).**
 
 :heavy_check_mark: **User can analyse optimise obtained by genetic algorithms by checking plots generated in configurations folder 001, 002, etc.**
 
