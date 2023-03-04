@@ -1,1 +1,5 @@
-# intelligent-garbage-truck
+# Intelligent Garbage Truck
+
+---
+
+### Project contains:
