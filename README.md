@@ -66,7 +66,7 @@
 
 **11. Press space when after everything is loaded**
 
-If any library is missing, just install it according to the information returned by ModuleNotFoundError.
+:bangbang: **If any library is missing, just install it according to the information returned by ModuleNotFoundError.** :bangbang:
 
 ### Additional features:
 
