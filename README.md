@@ -60,7 +60,7 @@
 
 **8. Install scikit-learn library**
 
-**9. Open project under PyCharm IDE**
+**9. Open project ("intelligent-garbage-truck-main" folder) under PyCharm IDE**
 
 **10. Run main.py**
 
