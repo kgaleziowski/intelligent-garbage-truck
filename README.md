@@ -114,4 +114,4 @@
 
 :heavy_check_mark: **User can analyse optimise obtained by genetic algorithms by checking plots generated in configurations folder 001, 002, etc.**
 
-:heavy_check_mark: **All important information are logged in real time to the console and can be verified.**
+:heavy_check_mark: **All important information is logged in real time to the console and can be verified.**
