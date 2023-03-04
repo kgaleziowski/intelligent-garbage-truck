@@ -1,5 +1,7 @@
 # Intelligent Garbage Truck
 
+**Implementation of intelligent autonomous garbage truck that travels by path with the lowest cost (TSP problem solved with genetic algorithms) from garbage to garbage, collects garbage if circumstances allows to do so (decision trees classification) and recogonizes type of garbage that is in trash (neural network object recognition). Agent uses BFS and A(*) algorithms implementation for state space searching, agent environment is highly configurable.**
+
 ---
 
 ### Project contains:
@@ -23,6 +25,8 @@
 :heavy_check_mark: **Dataset containing nearly 1000 pictures of each type of garbage (plastic, paper, glass, mixed)**
 
 :heavy_check_mark: **Access to configuration files which allows to play with generated environment**
+
+### Video example of autonomous garbage truck
 
 ### Agent environment:
 
