@@ -26,7 +26,11 @@
 
 :heavy_check_mark: **Access to configuration files which allows to play with generated environment**
 
+---
+
 ### Video example of autonomous garbage truck
+
+---
 
 ### Agent environment:
 
@@ -35,6 +39,8 @@
 ![s2](https://user-images.githubusercontent.com/72214275/222919713-7d319a08-0bc4-4d2c-9474-101292a40d0c.png)
 
 ![s3](https://user-images.githubusercontent.com/72214275/222919718-2733e477-43f3-4b2f-980b-0d1b397f16bc.png)
+
+---
 
 ### Dataset samples (examples of glass/paper/plastic/mix):
 
@@ -46,6 +52,8 @@
 
 ![mix (648)](https://user-images.githubusercontent.com/72214275/222919821-394071a6-e4dd-4f71-b3df-b84e7d497626.jpg)
 
+---
+
 ### Genetic algorithms plot visualization of cost optimisation (different parameters):
 
 ![PLOT-003](https://user-images.githubusercontent.com/72214275/222919869-9d3a4795-4859-4a9f-afba-1f0a29cd2b46.png)
@@ -55,6 +63,8 @@
 ![PLOT-004](https://user-images.githubusercontent.com/72214275/222919878-68ab2209-3a17-4f8d-aebb-b5228fca2676.png)
 
 ![PLOT-008](https://user-images.githubusercontent.com/72214275/222919899-ee819059-86c8-4f59-8ff7-d6fdaaf4d9cd.png)
+
+---
 
 ### Technology stack:
 
@@ -93,6 +103,8 @@
 **11. Press space when after everything is loaded**
 
 :bangbang: **If any library is missing, just install it according to the information returned by ModuleNotFoundError.** :bangbang:
+
+---
 
 ### Additional features:
 
