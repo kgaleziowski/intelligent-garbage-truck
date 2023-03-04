@@ -26,9 +26,31 @@
 
 ### Agent environment:
 
-### Dataset samples:
+![s1](https://user-images.githubusercontent.com/72214275/222919705-3ac36d0c-9cae-4c56-bcc7-dd6826db0220.png)
 
-### Genetic algorithms plot visualization of cost optimisation:
+![s2](https://user-images.githubusercontent.com/72214275/222919713-7d319a08-0bc4-4d2c-9474-101292a40d0c.png)
+
+![s3](https://user-images.githubusercontent.com/72214275/222919718-2733e477-43f3-4b2f-980b-0d1b397f16bc.png)
+
+### Dataset samples (examples of glass/paper/plastic/mix):
+
+![glass (20)](https://user-images.githubusercontent.com/72214275/222919732-5634a553-3c5d-45f4-a2a8-44e28a2da4c4.jpg)
+
+![paper (131)](https://user-images.githubusercontent.com/72214275/222919747-37f00c92-3865-48d5-b3c2-aa651ce65d8b.jpg)
+
+![plastic (13)](https://user-images.githubusercontent.com/72214275/222919756-050717de-f3a3-43b2-bd34-7e42a2eb0cb0.jpg)
+
+![mix (648)](https://user-images.githubusercontent.com/72214275/222919821-394071a6-e4dd-4f71-b3df-b84e7d497626.jpg)
+
+### Genetic algorithms plot visualization of cost optimisation (different parameters):
+
+![PLOT-003](https://user-images.githubusercontent.com/72214275/222919869-9d3a4795-4859-4a9f-afba-1f0a29cd2b46.png)
+
+![PLOT-002](https://user-images.githubusercontent.com/72214275/222919930-bf8a2b69-3c03-4d37-948c-e59903499328.png)
+
+![PLOT-004](https://user-images.githubusercontent.com/72214275/222919878-68ab2209-3a17-4f8d-aebb-b5228fca2676.png)
+
+![PLOT-008](https://user-images.githubusercontent.com/72214275/222919899-ee819059-86c8-4f59-8ff7-d6fdaaf4d9cd.png)
 
 ### Technology stack:
 
