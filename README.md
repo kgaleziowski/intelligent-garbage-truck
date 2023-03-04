@@ -28,7 +28,7 @@
 
 ---
 
-### Video example of autonomous garbage truck
+### Autonomous garbage truck in action:
 
 ---
 
