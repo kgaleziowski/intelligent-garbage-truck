@@ -12,7 +12,7 @@
 
 :heavy_check_mark: **Implementation of state space searching with BFS (Breadth-first search) algorithm**
 
-:heavy_check_mark: **Implementation of state space searching with heuristic algorithm A* and Manhattan distance.**
+:heavy_check_mark: **Implementation of state space searching with heuristic algorithm A\* and Manhattan distance.**
 
 :heavy_check_mark: **Implementation of decision trees for making decision about picking up garbage under current circumstances based on 8 parameters (even/odd day of the week, size of garbage, weight of garbage, paid bill, can/cannot close bin, free space, type of garbage, time of a day), model training, learning set, extracted trainer for model**
 
