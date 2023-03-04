@@ -1,6 +1,6 @@
 # Intelligent Garbage Truck
 
-**Implementation of intelligent autonomous garbage truck that travels by path with the lowest cost (TSP problem solved with genetic algorithms) from garbage to garbage, collects garbage if circumstances allows to do so (decision trees classification) and recogonizes type of garbage that is in trash (neural network object recognition). Agent uses BFS and A(*) algorithms implementation for state space searching, agent environment is highly configurable.**
+**Implementation of intelligent autonomous garbage truck that travels by path with the lowest cost (TSP problem solved with genetic algorithms) from garbage to garbage, collects garbage if circumstances allows to do so (decision trees classification) and recogonizes type of garbage that is in trash (neural network object recognition). Agent uses BFS and A(*) algorithms implementation for state space searching, agent environment is highly configurable. Agent can turn left, right and move forward by one unit with cost of 1. If he moves through obstacle it has additional cost of 10. Agent with A(*) algorithm toggled will always consider that cost and with help of genetic algorithms traversal of all trashes will be always close to optimal.**
 
 ---
 
@@ -28,7 +28,26 @@
 
 ---
 
-### Video demonstration:
+### Video demonstration (autonomus mode):
+
+**Just press space after opening application**
+
+https://user-images.githubusercontent.com/72214275/222927518-dc63cbff-63e5-4355-8ab5-8dca9376f67c.mp4
+
+### Video demonstration (free mode):
+
+**Select location with left mouse click and then:**
+
+* **Press O to place obstacle**
+* **Press T to place trash**
+* **Press A to change state space searching algorithm**
+* **Press S to save current map configuration (location of obstacles, trashes) - more information at the end of this file**
+* **Use right click on location to make garbage truck drive to this location by road found using currently selected algorithm (you can compare difference between A(*) and BFS in that way in very nice way with obstacles)**
+
+https://user-images.githubusercontent.com/72214275/222927975-a93062d7-fe7b-4567-a561-c322c159c742.mp4
+
+\
+**This video shows that agent chooses longer road if it has lower overall cost but there is much more to check - try it yourself!**
 
 ---
 
