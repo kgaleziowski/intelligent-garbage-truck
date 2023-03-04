@@ -86,7 +86,7 @@ WRONG_TRASHCAN_SIZE = pygame.transform.scale(WRONG_TRASHCAN_SIZE, (50, 60))
 
 #Fonts
 
-HUD_FONT = pygame.font.SysFont("comicsans", 30)
+HUD_FONT = pygame.font.SysFont("comicsans", 20)
 DUMP_FONT = pygame.font.Font("Fonts/SourceCodePro-BoldItalic.ttf", 15)
 
 #Trash Coordinates
