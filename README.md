@@ -92,10 +92,10 @@
 
 ### Additional features:
 
-* **User can load multiple configurations in settings.py file and also create his own configurations according to instructions in file "GA-How to use.txt".**
+:heavy_check_mark: **User can load multiple configurations in settings.py file and also create his own configurations according to instructions in file "GA-How to use.txt".**
 
-* **User can easily change used algorithm for state space searching by pressing A key (A(*)/BFS).**
+:heavy_check_mark: **User can easily change used algorithm for state space searching by pressing A key (A(*)/BFS).**
 
-* **User can analyse optimise obtained by genetic algorithms by checking plots generated in configurations folder 001, 002, etc.**
+:heavy_check_mark: **User can analyse optimise obtained by genetic algorithms by checking plots generated in configurations folder 001, 002, etc.**
 
-* **All important information are logged in real time to the console and can be verified.**
+:heavy_check_mark: **All important information are logged in real time to the console and can be verified.**
